@@ -1,0 +1,35 @@
+{
+  "name": "erx-prescription-generate",
+  "version": "1.0.0",
+  "description": "This project will help you to generate the prescription just like doctor prescribe as per Australian standards. This also enables the eRX E-Prescription support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-vatsaly/erx-prescription-generate.git"
+  },
+  "keywords": [
+    "e-prescription",
+    "prescription",
+    "erx",
+    "erx",
+    "prescription",
+    "prescription",
+    "generator",
+    "Australian",
+    "standard",
+    "prescription",
+    "doctor",
+    "prescription",
+    "generate",
+    "prescription"
+  ],
+  "author": "Vatsaly Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-vatsaly/erx-prescription-generate/issues"
+  },
+  "homepage": "https://github.com/hi-vatsaly/erx-prescription-generate#readme"
+}
