@@ -11,6 +11,9 @@
 
     5. Please refer to data and validation section.
 
+# Installation
+
+npm i erx-prescription-generate --save
 ## Data Options & Validations
 
     1. isEPrescription - boolean - default: false
